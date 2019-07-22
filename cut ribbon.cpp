@@ -10,7 +10,6 @@ int main()
 
 	cin>>arr[0]>>arr[1]>>arr[2];
 
-
 	int dp[4001];
 
 
